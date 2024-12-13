@@ -1,6 +1,6 @@
-# Thesis-papers
+# Planned content of doctoral thesis
 
-### Papers in the thesis
+### Papers included in the thesis
 1. [CIPHE: A Framework for Document Cluster Interpretation and Precision from Human Exploration](https://aclanthology.org/2024.nlp4dh-1.52) (Eklund et al., NLP4DH 2024)
 2. [An Empirical Configuration Study of a Common Document Clustering Pipeline](https://aclanthology.org/2023.nejlt-1.7/) (Eklund et al., NEJLT 2023)
 3. [Topic Modeling by Clustering Language Model Embeddings: Human Validation on an Industry Dataset](https://aclanthology.org/2022.emnlp-industry.65/) (Eklund & Forsman, EMNLP 2022)

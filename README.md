@@ -1,4 +1,6 @@
 # Planned content of doctoral thesis
+### Abstract
+Document clustering is used to discover patterns in large corpora of documents. Clustering is often done in an unsupervised setting, where the application environment of the clustering algorithm determines whether the quality of the clusters are adequate. In NLP, the resulting clusters are valuable if a human viewing them can interpret them. This thesis presents a novel method for human cluster evaluation called CIPHE (Paper III), which was developed through the needs of the industry setting of contextual advertisement (Paper I). CIPHE  Throughout the work, we make use of a BERTopic pipeline where a language model such as BERT or Sentence-T5 embeds documents, which are subsequently clustered based on the vector distances (Paper IV). We also discovered 
 
 ### Papers included in the thesis
 1. [CIPHE: A Framework for Document Cluster Interpretation and Precision from Human Exploration](https://aclanthology.org/2024.nlp4dh-1.52) (Eklund et al., NLP4DH 2024)

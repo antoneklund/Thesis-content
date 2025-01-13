@@ -1,4 +1,4 @@
-# Planned content of doctoral thesis
+# Planned content for the doctoral thesis
 ## Working Title: _Human Evaluation Methods for Cluster Interpretation_
 ### Abstract
 Document clustering is widely used to identify patterns within large text corpora. Clustering is typically performed in an unsupervised setting, where the quality of clusters depends on the application context. In my work, I utilized a BERTopic pipeline that employs language models such as BERT or Sentence-T5 to embed documents, clustering them based on vector distances (Paper IV). A key challenge in document clustering lies in its evaluation: clusters are only useful if they are interpretable by humans, whose judgments are shaped by personal experience and knowledge, making it difficult to establish a definitive ground truth. Nonetheless, effective evaluation methods are essential in both research and industrial applications, leading to a need for approaches that integrate human judgment and is flexible to specific application goals.

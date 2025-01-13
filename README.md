@@ -12,7 +12,7 @@ Additionally, in Paper V, we also discuss efficient human-in-the-loop validation
 2. [CIPHE: A Framework for Document Cluster Interpretation and Precision from Human Exploration](https://aclanthology.org/2024.nlp4dh-1.52) (Eklund et al., NLP4DH 2024)
 3. [Comparing Human-Perceived Cluster Characteristics through the Lens of CIPHE: Measuring Coherence beyond Keywords](https://doi.org/10.5281/zenodo.14622380) (Eklund et al., Submitted JDMDH 2025)
 4. [An Empirical Configuration Study of a Common Document Clustering Pipeline](https://aclanthology.org/2023.nejlt-1.7/) (Eklund et al., NEJLT 2023)
-5. [Industry Quality Control for Efficient Continuous Human Validation of Deployed Text Classification Systems](https://drive.google.com/file/d/1rgjWHL20X1ZWFAN1KSEo7s2WeOpdhBvq/view?usp=sharing) (Eklund et al., Submitted 2025)
+5. [Industry Quality Control for Efficient Continuous Human Validation of Deployed Text Classification Systems](https://drive.google.com/file/d/1rgjWHL20X1ZWFAN1KSEo7s2WeOpdhBvq/view?usp=sharing) (Eklund et al., Submitted ACL: Industry 2025)
 
 
 
